@@ -1,0 +1,306 @@
+payment_month,department,is_new_hire,headcount,total_salary,avg_salary_per_employee
+2018-03-01,Engineering,False,1,6833.0,6833.0
+2018-03-01,General & Administration,False,1,5500.0,5500.0
+2018-03-01,Operations,False,2,7084.0,3542.0
+2018-04-01,Engineering,False,1,6833.0,6833.0
+2018-04-01,General & Administration,False,1,5500.0,5500.0
+2018-04-01,Operations,False,2,7084.0,3542.0
+2018-05-01,Engineering,False,1,6833.0,6833.0
+2018-05-01,General & Administration,False,1,5500.0,5500.0
+2018-05-01,Operations,False,2,7084.0,3542.0
+2018-06-01,Engineering,False,1,6833.0,6833.0
+2018-06-01,General & Administration,False,1,5500.0,5500.0
+2018-06-01,Operations,False,2,7084.0,3542.0
+2018-07-01,Engineering,False,1,6833.0,6833.0
+2018-07-01,General & Administration,False,1,5500.0,5500.0
+2018-07-01,Operations,False,2,7084.0,3542.0
+2018-08-01,Engineering,False,1,6833.0,6833.0
+2018-08-01,General & Administration,False,1,5500.0,5500.0
+2018-08-01,Operations,False,2,7084.0,3542.0
+2018-09-01,Engineering,False,1,6833.0,6833.0
+2018-09-01,General & Administration,False,1,5500.0,5500.0
+2018-09-01,Operations,False,2,7084.0,3542.0
+2018-10-01,Engineering,False,1,6833.0,6833.0
+2018-10-01,General & Administration,False,1,5500.0,5500.0
+2018-10-01,Operations,False,2,7084.0,3542.0
+2018-11-01,Engineering,False,1,6833.0,6833.0
+2018-11-01,General & Administration,False,1,5500.0,5500.0
+2018-11-01,Operations,False,2,7084.0,3542.0
+2018-12-01,Engineering,False,1,6833.0,6833.0
+2018-12-01,General & Administration,False,1,5500.0,5500.0
+2018-12-01,Operations,False,2,7084.0,3542.0
+2019-01-01,Engineering,False,1,6833.0,6833.0
+2019-01-01,General & Administration,False,1,5500.0,5500.0
+2019-01-01,Operations,False,3,9167.0,3055.6666666666665
+2019-02-01,Engineering,False,1,6833.0,6833.0
+2019-02-01,General & Administration,False,1,5500.0,5500.0
+2019-02-01,Operations,False,3,9167.0,3055.6666666666665
+2019-03-01,Engineering,False,1,6833.0,6833.0
+2019-03-01,General & Administration,False,1,5500.0,5500.0
+2019-03-01,Operations,False,3,9167.0,3055.6666666666665
+2019-04-01,Engineering,False,1,6833.0,6833.0
+2019-04-01,General & Administration,False,1,5500.0,5500.0
+2019-04-01,Operations,False,3,9167.0,3055.6666666666665
+2019-05-01,Engineering,False,1,6833.0,6833.0
+2019-05-01,General & Administration,False,1,5500.0,5500.0
+2019-05-01,Operations,False,3,9167.0,3055.6666666666665
+2019-06-01,Engineering,False,1,6833.0,6833.0
+2019-06-01,General & Administration,False,1,5500.0,5500.0
+2019-06-01,Operations,False,3,9167.0,3055.6666666666665
+2019-07-01,Engineering,False,1,6833.0,6833.0
+2019-07-01,General & Administration,False,1,5500.0,5500.0
+2019-07-01,Operations,False,3,9167.0,3055.6666666666665
+2019-08-01,Engineering,False,1,6833.0,6833.0
+2019-08-01,General & Administration,False,1,5500.0,5500.0
+2019-08-01,Operations,False,3,9167.0,3055.6666666666665
+2019-09-01,Engineering,False,1,6833.0,6833.0
+2019-09-01,General & Administration,False,1,5500.0,5500.0
+2019-09-01,Operations,False,3,9167.0,3055.6666666666665
+2019-10-01,Engineering,False,1,6833.0,6833.0
+2019-10-01,General & Administration,False,1,5500.0,5500.0
+2019-10-01,Operations,False,3,9167.0,3055.6666666666665
+2019-11-01,Engineering,False,1,6833.0,6833.0
+2019-11-01,General & Administration,False,1,5500.0,5500.0
+2019-11-01,Operations,False,3,9167.0,3055.6666666666665
+2019-12-01,Engineering,False,1,6833.0,6833.0
+2019-12-01,General & Administration,False,1,5500.0,5500.0
+2019-12-01,Operations,False,3,9167.0,3055.6666666666665
+2020-01-01,Engineering,False,1,6833.0,6833.0
+2020-01-01,General & Administration,False,1,5500.0,5500.0
+2020-01-01,Operations,False,3,9167.0,3055.6666666666665
+2020-02-01,Engineering,False,1,6833.0,6833.0
+2020-02-01,General & Administration,False,1,5500.0,5500.0
+2020-02-01,Operations,False,3,9167.0,3055.6666666666665
+2020-03-01,Engineering,False,1,6833.0,6833.0
+2020-03-01,General & Administration,False,1,5500.0,5500.0
+2020-03-01,Operations,False,3,9167.0,3055.6666666666665
+2020-04-01,Engineering,False,1,6833.0,6833.0
+2020-04-01,General & Administration,False,1,5500.0,5500.0
+2020-04-01,Operations,False,3,9167.0,3055.6666666666665
+2020-05-01,Engineering,False,1,6833.0,6833.0
+2020-05-01,General & Administration,False,2,12917.0,6458.5
+2020-05-01,Operations,False,3,9167.0,3055.6666666666665
+2020-06-01,Engineering,False,2,11750.0,5875.0
+2020-06-01,General & Administration,False,3,19167.0,6389.0
+2020-06-01,Operations,False,4,11667.0,2916.75
+2020-06-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-07-01,Engineering,False,2,11750.0,5875.0
+2020-07-01,General & Administration,False,3,19167.0,6389.0
+2020-07-01,Operations,False,4,11667.0,2916.75
+2020-07-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-08-01,Engineering,False,2,11750.0,5875.0
+2020-08-01,General & Administration,False,3,19167.0,6389.0
+2020-08-01,Operations,False,4,11667.0,2916.75
+2020-08-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-09-01,Engineering,False,2,11750.0,5875.0
+2020-09-01,General & Administration,False,3,19167.0,6389.0
+2020-09-01,Operations,False,4,11667.0,2916.75
+2020-09-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-10-01,Engineering,False,3,17000.0,5666.666666666667
+2020-10-01,General & Administration,False,3,19167.0,6389.0
+2020-10-01,Operations,False,4,11667.0,2916.75
+2020-10-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-11-01,Engineering,False,3,17000.0,5666.666666666667
+2020-11-01,General & Administration,False,3,19167.0,6389.0
+2020-11-01,Operations,False,4,11667.0,2916.75
+2020-11-01,Sales & Marketing,False,1,3917.0,3917.0
+2020-12-01,Engineering,False,3,17000.0,5666.666666666667
+2020-12-01,General & Administration,False,3,19167.0,6389.0
+2020-12-01,Operations,False,4,11667.0,2916.75
+2020-12-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-01-01,Engineering,False,4,21167.0,5291.75
+2021-01-01,General & Administration,False,3,19167.0,6389.0
+2021-01-01,Operations,False,4,11667.0,2916.75
+2021-01-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-02-01,Engineering,False,4,21167.0,5291.75
+2021-02-01,General & Administration,False,3,19167.0,6389.0
+2021-02-01,Operations,False,4,11667.0,2916.75
+2021-02-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-03-01,Engineering,False,4,21167.0,5291.75
+2021-03-01,General & Administration,False,3,19167.0,6389.0
+2021-03-01,Operations,False,4,11667.0,2916.75
+2021-03-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-04-01,Engineering,False,4,21167.0,5291.75
+2021-04-01,General & Administration,False,3,19167.0,6389.0
+2021-04-01,Operations,False,4,11667.0,2916.75
+2021-04-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-05-01,Engineering,False,4,21167.0,5291.75
+2021-05-01,General & Administration,False,3,19167.0,6389.0
+2021-05-01,Operations,False,4,11667.0,2916.75
+2021-05-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-06-01,Engineering,False,4,21167.0,5291.75
+2021-06-01,General & Administration,False,3,19167.0,6389.0
+2021-06-01,Operations,False,4,11667.0,2916.75
+2021-06-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-07-01,Engineering,False,4,21167.0,5291.75
+2021-07-01,General & Administration,False,3,19167.0,6389.0
+2021-07-01,Operations,False,4,11667.0,2916.75
+2021-07-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-08-01,Engineering,False,4,21167.0,5291.75
+2021-08-01,General & Administration,False,3,19167.0,6389.0
+2021-08-01,Operations,False,4,11667.0,2916.75
+2021-08-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-08-15,Sales & Marketing,False,1,2083.0,2083.0
+2021-09-01,Engineering,False,4,21167.0,5291.75
+2021-09-01,General & Administration,False,3,19167.0,6389.0
+2021-09-01,Operations,False,4,11667.0,2916.75
+2021-09-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-09-15,Sales & Marketing,False,1,2083.0,2083.0
+2021-10-01,Engineering,False,4,21167.0,5291.75
+2021-10-01,General & Administration,False,3,19167.0,6389.0
+2021-10-01,Operations,False,4,11667.0,2916.75
+2021-10-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-10-15,Sales & Marketing,False,2,6416.0,3208.0
+2021-11-01,Engineering,False,4,21167.0,5291.75
+2021-11-01,General & Administration,False,3,19167.0,6389.0
+2021-11-01,Operations,False,4,11667.0,2916.75
+2021-11-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-11-15,Sales & Marketing,False,2,6416.0,3208.0
+2021-12-01,Engineering,False,4,21167.0,5291.75
+2021-12-01,General & Administration,False,3,19167.0,6389.0
+2021-12-01,Operations,False,4,11667.0,2916.75
+2021-12-01,Sales & Marketing,False,1,3917.0,3917.0
+2021-12-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-01-01,Engineering,False,4,21167.0,5291.75
+2022-01-01,General & Administration,False,4,25834.0,6458.5
+2022-01-01,Operations,False,5,15584.0,3116.8
+2022-01-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-01-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-02-01,Engineering,False,4,21167.0,5291.75
+2022-02-01,General & Administration,False,4,25834.0,6458.5
+2022-02-01,Operations,False,5,15584.0,3116.8
+2022-02-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-02-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-03-01,Engineering,False,4,21167.0,5291.75
+2022-03-01,General & Administration,False,4,25834.0,6458.5
+2022-03-01,Operations,False,5,15584.0,3116.8
+2022-03-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-03-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-04-01,Engineering,False,4,21167.0,5291.75
+2022-04-01,General & Administration,False,4,25834.0,6458.5
+2022-04-01,Operations,False,5,15584.0,3116.8
+2022-04-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-04-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-05-01,Engineering,False,4,21167.0,5291.75
+2022-05-01,General & Administration,False,4,25834.0,6458.5
+2022-05-01,Operations,False,5,15584.0,3116.8
+2022-05-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-05-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-06-01,Engineering,False,4,21167.0,5291.75
+2022-06-01,General & Administration,False,4,25834.0,6458.5
+2022-06-01,Operations,False,5,15584.0,3116.8
+2022-06-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-06-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-07-01,Engineering,False,4,21167.0,5291.75
+2022-07-01,General & Administration,False,4,25834.0,6458.5
+2022-07-01,Operations,False,5,15584.0,3116.8
+2022-07-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-07-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-08-01,Engineering,False,4,21167.0,5291.75
+2022-08-01,General & Administration,False,4,25834.0,6458.5
+2022-08-01,Operations,False,5,15584.0,3116.8
+2022-08-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-08-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-09-01,Engineering,False,4,21167.0,5291.75
+2022-09-01,General & Administration,False,3,20334.0,6778.0
+2022-09-01,Operations,False,5,15584.0,3116.8
+2022-09-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-09-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-10-01,Engineering,False,4,21167.0,5291.75
+2022-10-01,General & Administration,False,3,20334.0,6778.0
+2022-10-01,Operations,False,5,15584.0,3116.8
+2022-10-01,Operations,True,1,2750.0,2750.0
+2022-10-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-10-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-11-01,Engineering,False,4,21167.0,5291.75
+2022-11-01,Engineering,True,2,15000.0,7500.0
+2022-11-01,General & Administration,False,3,20334.0,6778.0
+2022-11-01,General & Administration,True,2,7250.0,3625.0
+2022-11-01,Operations,False,5,15584.0,3116.8
+2022-11-01,Operations,True,3,10333.0,3444.3333333333335
+2022-11-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-11-01,Sales & Marketing,True,3,19334.0,6444.666666666667
+2022-11-15,Sales & Marketing,False,2,6416.0,3208.0
+2022-12-01,Engineering,False,3,17000.0,5666.666666666667
+2022-12-01,Engineering,True,4,30250.0,7562.5
+2022-12-01,General & Administration,False,2,12917.0,6458.5
+2022-12-01,General & Administration,True,4,17916.0,4479.0
+2022-12-01,Operations,False,4,13501.0,3375.25
+2022-12-01,Operations,True,4,17000.0,4250.0
+2022-12-01,Sales & Marketing,False,1,3917.0,3917.0
+2022-12-01,Sales & Marketing,True,4,23501.0,5875.25
+2022-12-15,Sales & Marketing,False,1,4333.0,4333.0
+2023-01-01,Engineering,False,2,10167.0,5083.5
+2023-01-01,Engineering,True,4,30250.0,7562.5
+2023-01-01,General & Administration,False,2,12917.0,6458.5
+2023-01-01,General & Administration,True,4,17916.0,4479.0
+2023-01-01,Operations,False,4,13501.0,3375.25
+2023-01-01,Operations,True,4,17000.0,4250.0
+2023-01-01,Sales & Marketing,False,1,3917.0,3917.0
+2023-01-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-01-15,Sales & Marketing,False,1,4333.0,4333.0
+2023-02-01,Engineering,False,2,10167.0,5083.5
+2023-02-01,Engineering,True,4,30250.0,7562.5
+2023-02-01,General & Administration,False,2,12917.0,6458.5
+2023-02-01,General & Administration,True,4,17916.0,4479.0
+2023-02-01,Operations,False,4,13501.0,3375.25
+2023-02-01,Operations,True,3,11917.0,3972.3333333333335
+2023-02-01,Sales & Marketing,False,1,3917.0,3917.0
+2023-02-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-02-15,Sales & Marketing,False,1,4333.0,4333.0
+2023-03-01,Engineering,False,1,4917.0,4917.0
+2023-03-01,Engineering,True,4,30250.0,7562.5
+2023-03-01,General & Administration,False,1,6250.0,6250.0
+2023-03-01,General & Administration,True,4,17916.0,4479.0
+2023-03-01,Operations,False,3,9584.0,3194.6666666666665
+2023-03-01,Operations,True,3,11917.0,3972.3333333333335
+2023-03-01,Sales & Marketing,False,1,3917.0,3917.0
+2023-03-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-04-01,Engineering,False,1,4917.0,4917.0
+2023-04-01,Engineering,True,4,30250.0,7562.5
+2023-04-01,General & Administration,False,1,6250.0,6250.0
+2023-04-01,General & Administration,True,4,17916.0,4479.0
+2023-04-01,Operations,False,2,5417.0,2708.5
+2023-04-01,Operations,True,3,11917.0,3972.3333333333335
+2023-04-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-05-01,Engineering,False,1,4917.0,4917.0
+2023-05-01,Engineering,True,4,30250.0,7562.5
+2023-05-01,General & Administration,False,1,6250.0,6250.0
+2023-05-01,General & Administration,True,4,17916.0,4479.0
+2023-05-01,Operations,False,2,5417.0,2708.5
+2023-05-01,Operations,True,3,11917.0,3972.3333333333335
+2023-05-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-06-01,Engineering,False,1,4917.0,4917.0
+2023-06-01,Engineering,True,4,30250.0,7562.5
+2023-06-01,General & Administration,False,1,6250.0,6250.0
+2023-06-01,General & Administration,True,4,17916.0,4479.0
+2023-06-01,Operations,False,2,5417.0,2708.5
+2023-06-01,Operations,True,2,5250.0,2625.0
+2023-06-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-07-01,Engineering,False,1,4917.0,4917.0
+2023-07-01,Engineering,True,4,30250.0,7562.5
+2023-07-01,General & Administration,False,1,6250.0,6250.0
+2023-07-01,General & Administration,True,4,17916.0,4479.0
+2023-07-01,Operations,False,1,2917.0,2917.0
+2023-07-01,Operations,True,2,5250.0,2625.0
+2023-07-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-08-01,Engineering,False,1,4917.0,4917.0
+2023-08-01,Engineering,True,4,30250.0,7562.5
+2023-08-01,General & Administration,False,1,6250.0,6250.0
+2023-08-01,General & Administration,True,4,17916.0,4479.0
+2023-08-01,Operations,True,1,2500.0,2500.0
+2023-08-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-09-01,Engineering,False,1,4917.0,4917.0
+2023-09-01,Engineering,True,3,23000.0,7666.666666666667
+2023-09-01,General & Administration,False,1,6250.0,6250.0
+2023-09-01,General & Administration,True,4,17916.0,4479.0
+2023-09-01,Operations,True,1,2500.0,2500.0
+2023-09-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-10-01,Engineering,True,3,23000.0,7666.666666666667
+2023-10-01,General & Administration,False,1,6250.0,6250.0
+2023-10-01,General & Administration,True,4,17916.0,4479.0
+2023-10-01,Operations,True,1,2500.0,2500.0
+2023-10-01,Sales & Marketing,True,4,23501.0,5875.25
+2023-11-01,Engineering,True,2,17167.0,8583.5
+2023-11-01,General & Administration,True,2,10666.0,5333.0
+2023-11-01,Sales & Marketing,True,3,20834.0,6944.666666666667
