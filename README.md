@@ -22,6 +22,7 @@ That curiosity turned a simple exercise into a complete case study. I created Co
 
 ## 📊 Dashboard
 Interactive Dashboard: (https://public.tableau.com/views/corequota_insights/Insights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Dashboard Screenshot](dashboard/corequota_dashboard.png)
 
 ## 📦 Project Includes 
 - A cleaned and structured Excel file tailored for FP&A workflows
