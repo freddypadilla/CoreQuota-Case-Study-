@@ -6,7 +6,8 @@ This project started when I came across a headcount planning Excel template onli
 
 That curiosity turned a simple exercise into a complete case study. I created CoreQuota, a fictional high-growth company, and built a Tableau dashboard designed to answer the kinds of strategic questions a real FP&A team would face during board meetings.
 
-## 🎯 Objective Answer key FP&A questions with clarity and strategic insight: 
+## 🎯 Objective 
+Answer key FP&A questions with clarity and strategic insight: 
 - 💸 How much is CoreQuota spending by department?
 - 📈 What is the forecasted salary for each department next year?
 - 🏛️ What is the total payroll cost per department over multiple years?
@@ -21,8 +22,8 @@ That curiosity turned a simple exercise into a complete case study. I created Co
 - **MoM Headcount Dynamics** Month-over-month headcount tracking reveals cyclical hiring patterns, with visible growth phases and stable retention in most departments.
 
 ## 📊 Dashboard
-Interactive Dashboard: (https://public.tableau.com/views/corequota_insights/Insights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard Screenshot](dashboard/corequota_dashboard.png)
+Interactive Dashboard: https://public.tableau.com/views/corequota_insights/Insights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![Dashboard Screenshot](dashboard/cq_dashboard.png)
 
 ## 📦 Project Includes 
 - A cleaned and structured Excel file tailored for FP&A workflows
