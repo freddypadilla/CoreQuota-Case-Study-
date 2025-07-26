@@ -1,0 +1,33 @@
+employee_name,department,start_date,end_date,gross_salary,monthly_salary,bonus,bonus_frequency,tenure_months,total_comp,avg_monthly_cost,is_new_hire
+Mike Johnson,Sales & Marketing,2018-03-01,2023-08-14,35000,2917.0,5000,Annual,65,40000,615.0,False
+Maria Schwartz,Sales & Marketing,2020-06-01,2023-04-22,47000,3917.0,3500,Quarterly,34,50500,1485.0,False
+John Garcia,Sales & Marketing,2021-10-15,2023-03-15,52000,4333.0,3000,Bi-Annual,17,55000,3235.0,False
+Lizzie McGuire,Sales & Marketing,2021-08-15,2022-12-31,25000,2083.0,500,Monthly,16,25500,1594.0,False
+Liam Smith,Sales & Marketing,2022-12-01,2023-12-07,50000,4167.0,4000,Bi-Annual,12,54000,4500.0,True
+Olivia Jones,Sales & Marketing,2022-11-01,2023-12-31,110000,9167.0,1000,Quarterly,13,111000,8538.0,True
+Noah Williams,Sales & Marketing,2022-11-01,2023-11-01,32000,2667.0,4000,Bi-Annual,12,36000,3000.0,True
+Emma Brown,Sales & Marketing,2022-11-01,2023-12-15,90000,7500.0,4000,Bi-Annual,13,94000,7231.0,True
+Amy Ball,Operations,2018-03-01,2023-04-12,50000,4167.0,5000,Annual,61,55000,902.0,False
+Matt Thompson,Operations,2020-06-01,2023-07-19,30000,2500.0,3000,Quarterly,37,33000,892.0,False
+Elizabeth Manning,Operations,2022-01-01,2023-03-15,47000,3917.0,3000,Bi-Annual,14,50000,3571.0,False
+Mike Johnson,Operations,2019-01-01,2022-12-31,25000,2083.0,500,Monthly,47,25500,543.0,False
+Elijah Davis,Operations,2022-12-01,2023-06-24,80000,6667.0,10000,Annual,6,90000,15000.0,True
+Charlotte Miller,Operations,2022-11-01,2023-02-19,61000,5083.0,2000,Quarterly,3,63000,21000.0,True
+James Wilson,Operations,2022-11-01,2023-11-01,30000,2500.0,4000,Bi-Annual,12,34000,2833.0,True
+Amelia Moore,Operations,2022-10-01,2023-08-28,33000,2750.0,4000,Bi-Annual,10,37000,3700.0,True
+Carl Hill,General & Administration,2018-03-01,2022-09-08,66000,5500.0,8000,Annual,54,74000,1370.0,False
+Max Campbell,General & Administration,2020-06-01,2023-11-09,75000,6250.0,3500,Quarterly,41,78500,1915.0,False
+Cassie Shroeder ,General & Administration,2022-01-01,2023-03-15,80000,6667.0,3000,Bi-Annual,14,83000,5929.0,False
+Jacob Ferguson,General & Administration,2020-05-01,2022-12-31,89000,7417.0,4000,Annual,31,93000,3000.0,False
+Benjamin Taylor,General & Administration,2022-12-01,2023-12-04,82000,6833.0,8000,Bi-Annual,12,90000,7500.0,True
+Sophia Anderson,General & Administration,2022-11-01,2023-11-15,55000,4583.0,4000,Bi-Annual,12,59000,4917.0,True
+Lucas Thomas,General & Administration,2022-11-01,2023-11-01,32000,2667.0,3000,Bi-Annual,12,35000,2917.0,True
+Isabella Jackson,General & Administration,2022-12-01,2023-12-18,46000,3833.0,4000,Bi-Annual,12,50000,4167.0,True
+Mike Lambert,Engineering,2018-03-01,2023-01-01,82000,6833.0,5000,Annual,58,87000,1500.0,False
+Nicolle Young,Engineering,2020-06-01,2023-10-14,59000,4917.0,3000,Quarterly,40,62000,1550.0,False
+Brian Stewart,Engineering,2020-10-01,2023-03-15,63000,5250.0,2000,Bi-Annual,29,65000,2241.0,False
+Adam Tucker,Engineering,2021-01-01,2022-12-31,50000,4167.0,500,Monthly,23,50500,2196.0,False
+Henry White,Engineering,2022-12-01,2023-12-20,96000,8000.0,8000,Annual,12,104000,8667.0,True
+Ava Harris,Engineering,2022-11-01,2023-12-01,110000,9167.0,6000,Bi-Annual,13,116000,8923.0,True
+Theodore Martin,Engineering,2022-11-01,2023-11-01,70000,5833.0,2000,Quarterly,12,72000,6000.0,True
+Harper Thompson,Engineering,2022-12-01,2023-09-05,87000,7250.0,4000,Bi-Annual,9,91000,10111.0,True
